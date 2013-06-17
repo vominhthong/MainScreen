@@ -48,6 +48,9 @@
 		F7BFE18F176F7BE600A75555 /* MainTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MainTests-Info.plist"; sourceTree = "<group>"; };
 		F7BFE191176F7BE600A75555 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F7BFE193176F7BE600A75555 /* MainTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainTests.m; sourceTree = "<group>"; };
+		F7BFE19D176F86AC00A75555 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		F7BFE19E176F86AC00A75555 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		F7BFE19F176F86AC00A75555 /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,9 @@
 		F7BFE162176F7BE500A75555 = {
 			isa = PBXGroup;
 			children = (
+				F7BFE19D176F86AC00A75555 /* MainViewController.h */,
+				F7BFE19E176F86AC00A75555 /* MainViewController.m */,
+				F7BFE19F176F86AC00A75555 /* MainViewController.xib */,
 				F7BFE174176F7BE500A75555 /* Main */,
 				F7BFE18D176F7BE600A75555 /* MainTests */,
 				F7BFE16D176F7BE500A75555 /* Frameworks */,
@@ -437,6 +443,7 @@
 				F7BFE199176F7BE600A75555 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7BFE19A176F7BE600A75555 /* Build configuration list for PBXNativeTarget "MainTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +452,7 @@
 				F7BFE19C176F7BE600A75555 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

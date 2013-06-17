@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDA3EFB3-7352-4734-AD25-120744D6A431</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Main</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C98FD05C-F1DD-4F9A-9F82-DAFDF55EE9B4</key>
+		<string>https://github.com/vominhthong/MainScreen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Main/Main.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C98FD05C-F1DD-4F9A-9F82-DAFDF55EE9B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vominhthong/MainScreen.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C98FD05C-F1DD-4F9A-9F82-DAFDF55EE9B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C98FD05C-F1DD-4F9A-9F82-DAFDF55EE9B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MainScreen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
